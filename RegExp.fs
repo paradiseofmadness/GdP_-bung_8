@@ -2,7 +2,7 @@
 open Mini
 open Types
 
-//     Ausdruck            nubbalble
+//     Ausdruck            nullable
 //A:    ab(ab)*|ba(ba)*     false
 //B:    b(ab)*              false
 //C:    a(ba)*              false
