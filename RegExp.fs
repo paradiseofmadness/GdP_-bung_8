@@ -8,7 +8,7 @@ open Types
 //C:    a(ba)*              false
 //D:    (ab)*               true
 //E:    (ba)*               true
-//F:    empty Language      false
+//F:    ∅                   false
 
 // c)
 let accept (input : List<Alphabet>): Bool =
